@@ -271,7 +271,7 @@ a:-webkit-any-link {
 
 .nine:hover:after {
     display: inline-block;
-    content: 'I graduated from Duke University in 2012. I studied Public Policy and Economics. I wrote my senior honors thesis on how the caste system affects microfinance default rates in rural India.';
+    content: 'I graduated from Duke University in 2012. I studied Public Policy and Economics. In college, I was interested in how microfinance affects the lives of people with traditionally low access to credit in developing countries. I spent time in Bangladesh and India conducting field work and wrote my senior honors thesis on how the caste system affects microfinance default rates in rural India.';
     margin-left: 120px;
     margin-top: -140px;
     z-index: 1;
