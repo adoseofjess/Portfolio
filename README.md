@@ -1,0 +1,1 @@
+This is my personal website where I share projects, a bit about myself, writing, and other miscellaneous things. 
